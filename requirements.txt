@@ -1,7 +1,0 @@
-```txt
-streamlit
-tensorflow
-numpy
-pillow
-gdown
-```

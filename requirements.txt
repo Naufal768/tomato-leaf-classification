@@ -1,0 +1,5 @@
+streamlit
+tf-nightly
+numpy
+pillow
+gdown
